@@ -1,2 +1,2 @@
-# wiley-edge-training
-Repo for Wiley Edge Product Support with SRE course
+# Product Support with SRE
+This repository will contain coursework for the C297 Product Support with SRE (2211) Wiley Edge course.
